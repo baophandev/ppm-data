@@ -1,49 +1,49 @@
 {
   "models": [
   	{
-  		id: '1',
-  		name: 'Trồng lúa ST25',
-  		author: 'Gia Baro',
-  		finishTime: 175,
-  		numOfTasks: 30,
-  		thumbnail:
-  			'https://edge.disstg.commercecloud.salesforce.com/dw/image/v2/BKFD_PRD/on/demandware.static/-/Sites-Purina_AU-Library/default/dwbf1b5cdb/images/Pet-advice/Cat-article/behaviour-cat/cat-meow-meaning.jpg',
+  		"id": "1",
+  		"name": "Trồng lúa ST25",
+  		"author": "Gia Baro",
+  		"finishTime": 175,
+  		"numOfTasks": 30,
+  		"thumbnail":
+  			"https://edge.disstg.commercecloud.salesforce.com/dw/image/v2/BKFD_PRD/on/demandware.static/-/Sites-Purina_AU-Library/default/dwbf1b5cdb/images/Pet-advice/Cat-article/behaviour-cat/cat-meow-meaning.jpg"
   	},
   	{
-  		id: '2',
-  		name: 'Nuôi tôm',
-  		author: 'Gia Baro',
-  		finishTime: 75,
-  		numOfTasks: 40,
-  		thumbnail:
-  			'https://edge.disstg.commercecloud.salesforce.com/dw/image/v2/BKFD_PRD/on/demandware.static/-/Sites-Purina_AU-Library/default/dwbf1b5cdb/images/Pet-advice/Cat-article/behaviour-cat/cat-meow-meaning.jpg',
+  		"id": "2",
+  		"name": "Nuôi tôm",
+  		"author": "Gia Baro",
+  		"finishTime": 75,
+  		"numOfTasks": 40,
+  		"thumbnail":
+  			"https://edge.disstg.commercecloud.salesforce.com/dw/image/v2/BKFD_PRD/on/demandware.static/-/Sites-Purina_AU-Library/default/dwbf1b5cdb/images/Pet-advice/Cat-article/behaviour-cat/cat-meow-meaning.jpg"
   	},
   	{
-  		id: '3',
-  		name: 'Nuôi bồ câu',
-  		author: 'Gia Baro',
-  		finishTime: 50,
-  		numOfTasks: 20,
-  		thumbnail:
-  			'https://edge.disstg.commercecloud.salesforce.com/dw/image/v2/BKFD_PRD/on/demandware.static/-/Sites-Purina_AU-Library/default/dwbf1b5cdb/images/Pet-advice/Cat-article/behaviour-cat/cat-meow-meaning.jpg',
+  		"id": "3",
+  		"name": "Nuôi bồ câu",
+  		"author": "Gia Baro",
+  		"finishTime": 50,
+  		"numOfTasks": 20,
+  		"thumbnail":
+  			"https://edge.disstg.commercecloud.salesforce.com/dw/image/v2/BKFD_PRD/on/demandware.static/-/Sites-Purina_AU-Library/default/dwbf1b5cdb/images/Pet-advice/Cat-article/behaviour-cat/cat-meow-meaning.jpg"
   	},
   	{
-  		id: '4',
-  		name: 'Nuôi bồ câu',
-  		author: 'Gia Baro',
-  		finishTime: 50,
-  		numOfTasks: 20,
-  		thumbnail:
-  			'https://edge.disstg.commercecloud.salesforce.com/dw/image/v2/BKFD_PRD/on/demandware.static/-/Sites-Purina_AU-Library/default/dwbf1b5cdb/images/Pet-advice/Cat-article/behaviour-cat/cat-meow-meaning.jpg',
+  		"id": "4",
+  		"name": "Nuôi bồ câu",
+  		"author": "Gia Baro",
+  		"finishTime": 50,
+  		"numOfTasks": 20,
+  		"thumbnail":
+  			"https://edge.disstg.commercecloud.salesforce.com/dw/image/v2/BKFD_PRD/on/demandware.static/-/Sites-Purina_AU-Library/default/dwbf1b5cdb/images/Pet-advice/Cat-article/behaviour-cat/cat-meow-meaning.jpg"
   	},
   	{
-  		id: '5',
-  		name: 'Nuôi bồ câu',
-  		author: 'Gia Baro',
-  		finishTime: 50,
-  		numOfTasks: 20,
-  		thumbnail:
-  			'https://edge.disstg.commercecloud.salesforce.com/dw/image/v2/BKFD_PRD/on/demandware.static/-/Sites-Purina_AU-Library/default/dwbf1b5cdb/images/Pet-advice/Cat-article/behaviour-cat/cat-meow-meaning.jpg',
-  	},
+  		"id": "5",
+  		"name": "Nuôi bồ câu",
+  		"author": "Gia Baro",
+  		"finishTime": 50,
+  		"numOfTasks": 20,
+  		"thumbnail":
+  			"https://edge.disstg.commercecloud.salesforce.com/dw/image/v2/BKFD_PRD/on/demandware.static/-/Sites-Purina_AU-Library/default/dwbf1b5cdb/images/Pet-advice/Cat-article/behaviour-cat/cat-meow-meaning.jpg"
+  	}
   ]
 }
