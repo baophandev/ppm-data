@@ -1,31 +1,82 @@
 {
   "models": [
-  	{
-  		"id": "1",
-  		"name": "Trồng lúa ST25",
-  		"author": "Gia Baro",
-  		"finishTime": 175,
-  		"numOfTasks": 30,
-  		"thumbnail":
-  			"https://edge.disstg.commercecloud.salesforce.com/dw/image/v2/BKFD_PRD/on/demandware.static/-/Sites-Purina_AU-Library/default/dwbf1b5cdb/images/Pet-advice/Cat-article/behaviour-cat/cat-meow-meaning.jpg"
-  	},
-  	{
-  		"id": "2",
-  		"name": "Nuôi tôm",
-  		"author": "Gia Baro",
-  		"finishTime": 75,
-  		"numOfTasks": 40,
-  		"thumbnail":
-  			"https://edge.disstg.commercecloud.salesforce.com/dw/image/v2/BKFD_PRD/on/demandware.static/-/Sites-Purina_AU-Library/default/dwbf1b5cdb/images/Pet-advice/Cat-article/behaviour-cat/cat-meow-meaning.jpg"
-  	},
-  	{
-  		"id": "3",
-  		"name": "Nuôi bồ câu",
-  		"author": "Gia Baro",
-  		"finishTime": 50,
-  		"numOfTasks": 20,
-  		"thumbnail":
-  			"https://edge.disstg.commercecloud.salesforce.com/dw/image/v2/BKFD_PRD/on/demandware.static/-/Sites-Purina_AU-Library/default/dwbf1b5cdb/images/Pet-advice/Cat-article/behaviour-cat/cat-meow-meaning.jpg"
-  	}
+    {
+      "id": "1",
+      "name": "Trồng lúa ST25",
+      "author": "Gia Baro",
+      "finishTime": 175,
+      "numOfTasks": 30,
+      "thumbnail": "https://edge.disstg.commercecloud.salesforce.com/dw/image/v2/BKFD_PRD/on/demandware.static/-/Sites-Purina_AU-Library/default/dwbf1b5cdb/images/Pet-advice/Cat-article/behaviour-cat/cat-meow-meaning.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Nuôi tôm",
+      "author": "Gia Baro",
+      "finishTime": 75,
+      "numOfTasks": 40,
+      "thumbnail": "https://edge.disstg.commercecloud.salesforce.com/dw/image/v2/BKFD_PRD/on/demandware.static/-/Sites-Purina_AU-Library/default/dwbf1b5cdb/images/Pet-advice/Cat-article/behaviour-cat/cat-meow-meaning.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Nuôi bồ câu",
+      "author": "Gia Baro",
+      "finishTime": 50,
+      "numOfTasks": 20,
+      "thumbnail": "https://edge.disstg.commercecloud.salesforce.com/dw/image/v2/BKFD_PRD/on/demandware.static/-/Sites-Purina_AU-Library/default/dwbf1b5cdb/images/Pet-advice/Cat-article/behaviour-cat/cat-meow-meaning.jpg"
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "name": "Trồng lúa ST25",
+      "startDate": "20/01/2025",
+      "endDate": "25/01/2025",
+      "finishPercent": 40,
+      "taskInforms": {
+        "finish": 18,
+        "pending": 8,
+        "working": 5
+      },
+      "cost": "15000000"
+    },
+    {
+      "id": "2",
+      "name": "Nuôi tôm",
+      "startDate": "20/01/2025",
+      "endDate": "25/01/2025",
+      "finishPercent": 60,
+      "taskInforms": {
+        "finish": 12,
+        "pending": 5,
+        "working": 3
+      },
+      "cost": "20000000"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "1",
+      "name": "Chuẩn bị hạt giống...",
+      "workTime": 2,
+      "startDate": "2024-02-25",
+      "endDate": "2024-02-27",
+      "preTasks": ""
+    },
+    {
+      "id": "2",
+      "name": "Trồng cây...",
+      "workTime": 2,
+      "startDate": "2024-02-25",
+      "endDate": "2024-02-27",
+      "preTasks": ""
+    },
+    {
+      "id": "3",
+      "name": "Bón phân...",
+      "workTime": 2,
+      "startDate": "2024-02-25",
+      "endDate": "2024-02-27",
+      "preTasks": ""
+    }
   ]
 }
