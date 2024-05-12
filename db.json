@@ -57,16 +57,16 @@
     {
       "id": "1",
       "name": "Chuẩn bị hạt giống...",
-      "workTime": 2,
-      "startDate": "2024-02-25",
+      "workTime": 60,
+      "startDate": "2024-07-25",
       "endDate": "2024-02-27",
       "preTasks": ""
     },
     {
       "id": "2",
       "name": "Trồng cây...",
-      "workTime": 2,
-      "startDate": "2024-02-25",
+      "workTime": 30,
+      "startDate": "2024-03-25",
       "endDate": "2024-02-27",
       "preTasks": ""
     },
