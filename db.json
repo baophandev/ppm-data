@@ -56,29 +56,29 @@
   "tasks": [
     {
       "id": "1",
-      "status": "Đang thực hiện",
       "name": "Chuẩn bị hạt giống...",
       "workTime": 60,
       "startDate": "2024-07-25",
       "endDate": "2024-02-27",
+      "taskStatus": "In Process",
       "preTasks": ""
     },
     {
       "id": "2",
-      "status": "Đang thực hiện",
       "name": "Trồng cây...",
       "workTime": 30,
       "startDate": "2024-03-25",
       "endDate": "2024-02-27",
+       "taskStatus": "Done",
       "preTasks": ""
     },
     {
       "id": "3",
-      "status": "Đang thực hiện",
       "name": "Bón phân...",
       "workTime": 50,
       "startDate": "2024-02-25",
       "endDate": "2024-02-27",
+       "taskStatus": "In Process",
       "preTasks": ""
     }
   ]
